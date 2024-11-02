@@ -6,9 +6,9 @@ This project is an in-depth analysis of restaurant and meal performance using Ex
 The dashboard provides key insights into orders, income, meal popularity, budget, and other metrics that are essential for understanding restaurant and meal performance trends.
 
 **Features:**
-Orders per Restaurant: Visualizes the total number of orders across different restaurants.
-Meal Types Distribution: Shows the proportion of meals served by type (e.g., Starter, Main, Dessert).
-Meal Prices: Displays price ranges for different meal categories.
+- Orders per Restaurant: Visualizes the total number of orders across different restaurants.
+- Meal Types Distribution: Shows the proportion of meals served by type (e.g., Starter, Main, Dessert).
+- Meal Prices: Displays price ranges for different meal categories.
 Total Income by Restaurant Type: Compares income across various types of restaurants (e.g., Asian, Fast Food, Homemade).
 Most Popular Meals: Highlights the most ordered meals.
 Price vs. Order Frequency: Scatter plot illustrating the relationship between price and order count.
