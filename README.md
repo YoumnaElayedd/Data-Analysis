@@ -1,5 +1,5 @@
 ## **Comprehensive Restaurant & Meal Performance Dashboard**
-<!-- Replace with link to your screenshot if hosting the image separately -->
+Dashboard.png
 
 **Project Overview**
 This project is an in-depth analysis of restaurant and meal performance using Excel. 
